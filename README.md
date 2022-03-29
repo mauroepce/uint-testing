@@ -23,15 +23,15 @@ npm install --save-dev mocha chai nyc
 npm i axios
 npm i sinon sinon-chai --save-dev
 
-# run the test
+## run the test
 npm run test
 
-# run coverage
+## run coverage
 Create a folder with a html coverage src files
 
 npm run coverage
 
-# Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
