@@ -27,7 +27,7 @@ Dependencies:
 npm run test
 
 ## run coverage
-Create a folder with a html coverage src files
+Create a folder with a html coverage src files:
 
 npm run coverage
 
