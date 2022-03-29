@@ -19,9 +19,9 @@ I also used the sinon library alongside the sinon-chai assertion library.  I use
 
 Dependencies:
 
-npm install --save-dev mocha chai nyc
-npm i axios
-npm i sinon sinon-chai --save-dev
+- npm install --save-dev mocha chai nyc
+- npm i axios
+- npm i sinon sinon-chai --save-dev
 
 ## run the test
 npm run test
